@@ -1,2 +1,2 @@
-# ac-task
-A simple repository to build the Sky Assessment Centre task
+# Sky Assessment Centre Task
+The details of the task can be found in the powerpoint presentation present in this repo. 
